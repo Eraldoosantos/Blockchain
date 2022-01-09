@@ -1,7 +1,7 @@
 # Blockchain
 Distribuited Systems -2021.1
 
-A simple Blockchain developed in Python langue. We tryied to recreate the most famous transaction: the first BTC transaction by Satoshi Nakamoto. There are 3 fictional blocks, using the timestamp principles, SHA-256 cryptography for hashing and JSON. 
+A simple Blockchain developed in Python langue. We tried to recreate the most famous transaction: the first BTC transaction by Satoshi Nakamoto. There are 3 fictional blocks, using the timestamp principles, SHA-256 cryptography for hashing and JSON. 
 
 Instructions to execute and read: 
 
